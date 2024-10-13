@@ -1,4 +1,4 @@
-# Learning Selenium01
+# Learning Selenium
 
 Programs containing Selenium Learning Resource.
 
